@@ -1,0 +1,10 @@
+[submodule "concord-shinjuku"]
+	path = concord-shinjuku
+	url = https://github.com/Synergy-repo/concord-shinjuku.git
+[submodule "schedsim"]
+	path = schedsim
+	url = git@github.com:rishabh246/schedsim.git
+	branch = concord
+[submodule "benchmarks/overhead"]
+	path = benchmarks/overhead
+	url = git@github.com:m8/concord-overhead-bench.git
